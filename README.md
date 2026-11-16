@@ -4,7 +4,7 @@
 Rubric: System Design 20% · Data Structures 25% · Algorithms 25% · Complexity Analysis 20% · Documentation 10%
 
 > **Submission:** the leader submits ONE **ZIP** (RAR gets 0) named `StreamNo_LeaderID` (e.g. `01_202312345`), containing the Java files and a **.docx** report of 10–15 pages, with a cover page listing every member's full name and ID.
-> **Still to ask your lecturer:** the deadline and late penalty · whether Java's built-in `HashMap`/`PriorityQueue` are allowed (writing your own is the safe choice) · whether a console menu is OK or a GUI is needed.
+> **Still to ask your lecturer:** the deadline and late penalty · whether Java's built-in `HashMap`/`PriorityQueue` are allowed (writing your own is the safe choice). **Decided:** console menu (what the course always uses).
 
 **What changed in v2:** the campus is now real Bahrain Polytechnic buildings · all data is created in code by `DataLoader.java` (no files to read) · the courses are from your IT programme · the UML class diagram covers the real-world classes only.
 
